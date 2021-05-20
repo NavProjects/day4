@@ -1,0 +1,47 @@
+*{
+    font-family: 'Recursive', sans-serif;
+    /* outline: 1px red solid; */
+}
+.id{
+    background-color: white;
+    border: 2px solid gray;
+    height: 300px;
+    width: 600px;
+    margin: auto;
+    margin-top: 20px;
+}
+.top{
+    background-color: #17A2B8;
+    height: 80px;
+}
+.user{
+    height: 60px;
+    position: relative;
+    top: -30px;
+    left: 40px;
+}
+.myinfo{
+    margin: 0px;
+    margin-left: 40px;
+    position: relative;
+    top: -30px;
+}
+.toplinks{
+    display: flex;
+    height: 20px;
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    top: -30px;
+}
+.mapslink{
+    text-decoration: none;
+    color: inherit;
+}
+a{
+    margin-left: 10px;
+}
+.editP{
+    color: #155C99;
+}
